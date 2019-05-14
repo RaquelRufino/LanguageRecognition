@@ -1,0 +1,3 @@
+# Language Recognition Using Deep Neural Networks
+
+The plan of this project is to create a huge labelled word library from scratch, with words from five different languages, each labelled with their language. The way that this will be done is by scraping a load of Wikipedia articles. We will then convert these words into binary vectors so that they can be inputted into the neural network. The network will be trained on 85% of the words and be validated on the remaining 15%. We will then (hopefully!) have a trained network which is able to accurately predict which of the five languages a given word is from.
